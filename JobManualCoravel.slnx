@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/Example1/Example1.csproj" Id="be62fbd9-7d2d-4b6a-a453-eee9e2b0793e" />
+  <Project Path="src/Example2/Example2.csproj" Id="3e0037f8-5c94-4f96-8b38-1d351437a47b" />
+  <Project Path="src/Example3/Example3.csproj" Id="07cd8793-7e53-4712-a72a-6492e7036bf9" />
+  <Project Path="src/Example4/Example4.csproj" Id="506723d6-afc3-4d40-8056-87164059dd42" />
+</Solution>
